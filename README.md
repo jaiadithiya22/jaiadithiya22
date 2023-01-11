@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jai Adithiya
 #### Cyber Security Aspirant | Ethical Hacker
-![Cyber Security Aspirant | Ethical Hacker](https://i.imgur.com/KTY6fhv.gif?noredirect)
+![Cyber Security Aspirant | Ethical Hacker](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/e57d0f74345669.5c2cfff17b6b4.gif)
 
 
 Skills: LINUX / WEB SCANNING / PYTHON
